@@ -1,4 +1,4 @@
-Matkul Semester 4
+# Semester 4
 
-Tugas membuat sistem kasir sederhana sudah ada database
+Sistem kasir sparepart motor sederhana dan sudah ada database.
 
